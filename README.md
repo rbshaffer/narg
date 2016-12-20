@@ -3,9 +3,7 @@
 Welcome! This is the course page for the University of Texas Network Analysis Reading Group (NARG). You can find the course materials, syllabus, and other useful links and information here. We'll update this repository as needed throughout the semester, but feel free to submit pull requests with your own resources or edits.
 
 # Philosophy
-This reading group is participant-organized and taught, and it'll succeed (or fail) based on participant input and effort. As a result, we're expecting everyone to come prepared, to participate, and to complete the readings for each week. **We're also expecting each participant to lead at least one week.** 
-
-Details on duties for session leaders are below, and pairs are acceptable if workshop demand is sufficiently high. Some parts of the semester are busier than others, and if you can't make a meeting or two, it's not the end of the world. But, if you decide to participate, please view this reading group as a semester-long commitment!
+This reading group is participant-organized and taught, and it'll succeed (or fail) based on participant input and effort. As a result, we're expecting everyone to come prepared, to participate, and to complete the readings for each week. Some parts of the semester are busier than others, and if you can't make a meeting or two, it's not the end of the world. But, if you decide to participate, please view this reading group as a semester-long commitment!
 
 # Format
 Each meeting will be led by one participant, who will begin with a lightning talk (~5 minutes) on their topic. Next, we'll discuss the week's papers as a group, and identify sources of confusion, potential applications, and critiques. Finally, the week's leader will present an applied example based on the topic of discussion (e.g. example code, example data, analysis, etc). 
