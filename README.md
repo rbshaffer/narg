@@ -1,6 +1,6 @@
 # Introduction
 
-Welcome! This is the course page for the University of Texas __Network Analysis Reading Group__ (NARG). You can find the course materials, syllabus, and other useful links and information here. We'll update this repository as needed throughout the semester, but feel free to submit pull requests with your own resources or edits.
+Welcome! This is the course page for the **Network Analysis Reading Group** (NARG). You can find the course materials, syllabus, and other useful links and information here. We'll update this repository as needed throughout the semester, but feel free to submit pull requests with your own resources or edits.
 
 # Philosophy
 This reading group is participant-organized and taught, and it'll succeed (or fail) based on participant input and effort. As a result, we're expecting everyone to come prepared, to participate, and to complete the readings for each week. Some parts of the semester are busier than others, and if you can't make a meeting or two, it's not the end of the world. But, if you decide to participate, please view this reading group as a semester-long commitment!
