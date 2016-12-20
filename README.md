@@ -22,7 +22,7 @@ Meetings once per week (times/dates TBD) for one hour. Based on demand and mater
 3. Walk the group through the week's applied example.
   * The application section should be about **10-15 minutes** long, and should contain a **live demonstration** of code, a software environment, or other tool.
   * Applications should be accompanied with **documentation**, so others can follow along.
-  * Applications should be your own construction. So, no copying from the internet! It'll be more work, but we'll all learn a lot more this way.
+  * We strongly encourage leaders to develop their own examples, rather than taking examples from elsewhere on the web. We'll all learn more by presenting and inspecting our own code!
 
 
 In general, leaders are not expected to be experts on their topic, but should be knowledgable about their week's material and the applied example they prepare. Prepare for your week as session leader with the same level of care that you'd prepare for a seminar course meeting, and you'll be in good shape.
