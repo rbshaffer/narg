@@ -11,7 +11,7 @@ Each meeting will be led by one participant, who will begin with a lightning tal
 # Leader Duties
 1. Select the week's applied paper and applied example.
   * Course organizers will give suggestions, but feel free to select your own.
-  * Please send your materials to the organizers at least two days before the week's session.
+  * Please send your materials to the organizers **at least two days before the week's session**.
 2. Give a brief lightning talk on the week's topic.
   * Lightning talks should be about **5 minutes long**, with about **3-5 slides**.
   * The talk should introduce the topic, its significance, and the application that we'll be using for the week.
