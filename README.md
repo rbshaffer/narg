@@ -48,8 +48,8 @@ Weekly leaders are not expected to be experts on their topic, but should be know
   7. Trees and structural equivalence.
   8. Community detection and local structures (i.e. triad analysis)
 * Effects of networks
-  9. Effects of networks: diffusion.
-  10. Effects of networks: mutual support.
+  9. Diffusion.
+  10. Mutual support.
 * Inference
   11. Exponential random graph models.
   12. Latent space network models.
