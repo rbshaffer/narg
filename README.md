@@ -64,5 +64,5 @@ Recommended packages are marked with a (\*). As a general rule, many software pa
  * [spnet](http://emmanuel.rousseaux.me/r-package-spnet)
  * [ggnet2](https://briatte.github.io/ggnet/)
 * Python
- * [NetworkX\*](https://networkx.readthedocs.io/en/stable)
+ * [NetworkX \(\*\)](https://networkx.readthedocs.io/en/stable)
  * [graph-tool](https://graph-tool.skewed.de/)
