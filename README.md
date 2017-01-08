@@ -41,7 +41,7 @@ For participants wishing to do some outside reading on their own, one or more of
 * Wasserman, Stanley, and Katherine Faust. *Social Network Analysis: Methods and Applications.* Cambridge University Press, 1994.
 * Wellman, Barry, and Stephen D. Berkowitz. *Social Structures: A Network Approach.* Cambridge University Press, 1988.
 * [Easley, David, and Jon Kleinberg. *Networks, Crowds, and Markets: Reasoning About a Highly Connected World.* Cambridge University Press, 2010.](http://www.cs.cornell.edu/home/kleinber/networks-book/)
-* [Hanneman, Robert A. and Mark Riddle. 2005. *Introduction to Social Network Methods*. Riverside, CA: University of California, Riverside.](Hanneman, Robert A. and Mark Riddle.  2005.  Introduction to social network methods.  Riverside, CA:  University of California, Riverside)
+* [Hanneman, Robert A. and Mark Riddle. 2005. *Introduction to Social Network Methods*. Riverside, CA: University of California, Riverside.](http://www.faculty.ucr.edu/~hanneman/nettext/)
   
 # List of topics
 Required readings are given in parentheticals following each topic heading. See each week's folder in the [resources](https://github.com/rbshaffer/narg/blog/master/resources) section for additional resources.
