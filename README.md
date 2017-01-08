@@ -38,7 +38,7 @@ Weekly leaders are not expected to be experts on their topic, but should be know
   
 # List of topics
 * Introduction
-  1. Data formats, transforming data to relational matrix (spreadsheet-style).
+  1. Motivation, terminology, and data formats.
   2. Types of networks.
   3. Visualizing and describing network data.
 * Node and network properties
