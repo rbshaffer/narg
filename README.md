@@ -57,7 +57,7 @@ Weekly leaders are not expected to be experts on their topic, but should be know
   14. Logistic regression (p*).
   
 # Software
-As a general rule, many software packages will work more easily with Unix-like (OSX; Linux) operating systems than with Windows. Check the documentation and requirements for each package carefully if you encounter issues!
+As a general rule, many software packages will work more easily with Unix-like operating systems (OSX; Linux) than with Windows. Check the documentation and requirements for each package carefully if you encounter issues!
 
 * R
  * [igraph](http://igraph.org/r/)
