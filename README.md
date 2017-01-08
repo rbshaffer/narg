@@ -60,9 +60,9 @@ Weekly leaders are not expected to be experts on their topic, but should be know
 Recommended packages are marked with a (\*). As a general rule, many software packages will work more easily with Unix-like (OSX; Linux) operating systems than with Windows. Check the documentation and requirements for each package carefully if you encounter issues!
 
 * R
-** [igraph](http://igraph.org/r/)
-** [spnet](http://emmanuel.rousseaux.me/r-package-spnet)
-** [ggnet2](https://briatte.github.io/ggnet/)
+ * [igraph](http://igraph.org/r/)
+ * [spnet](http://emmanuel.rousseaux.me/r-package-spnet)
+ * [ggnet2](https://briatte.github.io/ggnet/)
 * Python
-** [NetworkX\*](https://networkx.readthedocs.io/en/stable)
-** [graph-tool](https://graph-tool.skewed.de/)
+ * [NetworkX\*](https://networkx.readthedocs.io/en/stable)
+ * [graph-tool](https://graph-tool.skewed.de/)
