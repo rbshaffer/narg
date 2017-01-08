@@ -36,9 +36,18 @@ Weekly leaders are not expected to be experts on their topic, but should be know
   * Speak up during the group meeting. We're all learning this material together, so if you're confused, others are likely confused as well.
   * If you know of any useful outside materials, suggest them to the organizers so we can add them to this repository!
   
+# Textbooks
+For participants wishing to do some outside reading on their own, one or more of these textbooks may be helpful. Hyperlinks are included for texts that are available online. 
+* Wasserman, Stanley, and Katherine Faust. *Social Network Analysis: Methods and Applications.* Cambridge University Press, 1994.
+* Wellman, Barry, and Stephen D. Berkowitz. *Social Structures: A Network Approach.* Cambridge University Press, 1988.
+* [Easley, David, and Jon Kleinberg. *Networks, Crowds, and Markets: Reasoning About a Highly Connected World.* Cambridge University Press, 2010.]{http://www.cs.cornell.edu/home/kleinber/networks-book/}
+* [Hanneman, Robert A. and Mark Riddle.  2005.  Introduction to Social Network Methods.  Riverside, CA:  University of California, Riverside]{Hanneman, Robert A. and Mark Riddle.  2005.  Introduction to social network methods.  Riverside, CA:  University of California, Riverside}
+  
 # List of topics
+Required readings are given in bullets below each topic heading. Check back regularly for updates!
 * Introduction
   1. Motivation, terminology, and data formats.
+   * [Borgatti (2009)]{https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Borgatti_2009.pdf}, [Wasserman and Faust, Chapter 1]{https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Wasserman_Faust_Part1.pdf}
   2. Types of networks.
   3. Visualizing and describing network data.
 * Node and network properties
