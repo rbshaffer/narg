@@ -44,10 +44,9 @@ For participants wishing to do some outside reading on their own, one or more of
 * [Hanneman, Robert A. and Mark Riddle.  2005.  Introduction to Social Network Methods.  Riverside, CA:  University of California, Riverside]{Hanneman, Robert A. and Mark Riddle.  2005.  Introduction to social network methods.  Riverside, CA:  University of California, Riverside}
   
 # List of topics
-Required readings are given in bullets below each topic heading. Check back regularly for updates!
+Required readings are given in parentheticals following each topic heading. See each week's folder in the [resources](https://github.com/rbshaffer/narg/blog/master/resources) section for additional resources.
 * Introduction
-  1. Motivation, terminology, and data formats.
-   * [Borgatti (2009)]{https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Borgatti_2009.pdf}, [Wasserman and Faust, Chapter 1]{https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Wasserman_Faust_Part1.pdf}
+  1. Motivation, terminology, and data formats. ([Borgatti (2009)](https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Borgatti_2009.pdf), [Wasserman and Faust, Chapter 1](https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Wasserman_Faust_Part1.pdf))
   2. Types of networks.
   3. Visualizing and describing network data.
 * Node and network properties
