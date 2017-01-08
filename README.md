@@ -17,11 +17,11 @@ Meetings once per week (times/dates TBD) for one hour. Based on demand and mater
   * Course organizers will give suggestions, but the leader will be responsible for selecting among them.
   * Leaders should send their materials to the organizers **at least two days before the week's session**, to give others time to look them over.
 2. Give a brief lightning talk on the week's topic.
-  * Lightning talks should be about **5 minutes long**, with about **3-5 slides**.
+  * Lightning talks should be about 5 minutes long, with no more than 5 slides.
   * The talk should introduce the topic, its significance, and the week's application.
 3. Walk the group through the week's applied example.
-  * The application section should be about **10-15 minutes** long, and should contain a **live demonstration** (e.g. R/Python code, standalone software environment).
-  * Applications should be accompanied with **documentation**, so others can follow along.
+  * The application section should be about 10-15 minutes long, and should contain a live demonstration (e.g. R/Python code, standalone software environment).
+  * Applications should be accompanied with documentation, so others can follow along.
   * We strongly encourage leaders to develop their own examples, rather than taking examples from elsewhere on the web. We'll all learn more by presenting and inspecting our own code!
 
 
