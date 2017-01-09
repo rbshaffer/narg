@@ -14,7 +14,7 @@ Meetings once per week (times/dates TBD) for one hour. Based on demand and mater
 # Duties
 ## Leaders
 1. Select the week's applied paper and applied example.
-  * Course organizers will give suggestions, but the leader will be responsible for selecting among them.
+  * Course organizers will suggest papers for each week, but the week's leader should feel free to select something different.
   * Leaders should send their materials to the organizers **at least two days before the week's session**, to give others time to look them over.
 2. Give a brief lightning talk on the week's topic.
   * Lightning talks should be about 5 minutes long, with no more than 5 slides.
