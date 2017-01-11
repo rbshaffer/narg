@@ -9,7 +9,7 @@ This reading group is participant-organized and taught, and it'll succeed (or fa
 Each meeting will be led by one participant, who will begin with a lightning talk on their topic. Next, we'll discuss the week's papers as a group, and identify sources of confusion, potential applications, and critiques. Finally, the week's leader will present an applied example based on the week's topic. 
 
 ## Logistics
-Meetings once per week (times/dates TBD) for one hour. Based on demand and material, we may hold an optional half-hour mathematics section some weeks, in which more mathematically inclined participants can dive into the details of the week's concepts.
+Meetings once per week, Thursdays 2-3pm. Most meetings will be in the Glickman Conference Center (CLA 1.302D), though a few meetings may need to be moved or rescheduled based on room availability. Based on demand and material, we may hold an optional half-hour mathematics section some weeks, in which more mathematically inclined participants can dive into the details of the week's concepts.
 
 # Duties
 ## Leaders
@@ -44,25 +44,24 @@ For participants wishing to do some outside reading on their own, one or more of
 * [Hanneman, Robert A. and Mark Riddle. 2005. *Introduction to Social Network Methods*. Riverside, CA: University of California, Riverside.](http://www.faculty.ucr.edu/~hanneman/nettext/)
   
 # List of topics
-Required readings are given in parentheticals following each topic heading. See each week's folder in the [resources](https://github.com/rbshaffer/narg/blog/master/resources) section for additional resources.
+Required readings are given in parentheticals following each topic heading. See each week's folder in the [resources](https://github.com/rbshaffer/narg/blog/master/resources) section for additional resources. Topic dates are approximate, and may be shifted depending on demand and scheduling.
 * Introduction
-  1. Motivation, terminology, and data formats. ([Borgatti (2009)](https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Borgatti_2009.pdf), [Wasserman and Faust, Chapter 1](https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Wasserman_Faust_Part1.pdf))
-  2. Types of networks.
-  3. Visualizing and describing network data.
+  1. 1/19: Motivation and course overview ([Borgatti (2009)](https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Borgatti_2009.pdf))
+  2. 1/26: Terminology, data formats, and visualization. ([Wasserman and Faust, Chapter 1](https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Wasserman_Faust_Part1.pdf))
+  3. 2/2: Types of networks.
 * Node and network properties
-  4. Node centrality and popularity.
-  5. Node power.
-  6. Network balance and transitivity.
-  7. Trees and structural equivalence.
-  8. Community detection and local structures (i.e. triad analysis)
+  4. 2/9: Node centrality and popularity.
+  5. 2/16 Node power.
+  6. 2/23: Network balance and transitivity.
+  7. 3/2: Community detection and local structures (i.e. triad analysis)
 * Effects of networks
-  9. Diffusion.
-  10. Mutual support.
+  8. 3/9: Diffusion.
+  9. 3/23: Mutual support.
 * Inference
-  11. Exponential random graph models.
-  12. Latent space network models.
-  13. Quadratic assignment procedure.
-  14. Logistic regression (p*).
+  10. 3/30: Exponential random graph models.
+  11. 4/13: Latent space network models.
+  12. 4/20: Quadratic assignment procedure.
+  13. 4/27Logistic regression (p*).
   
 # Software
 As a general rule, many software packages will work more easily with Unix-like operating systems (OSX; Linux) than with Windows. Check the documentation and requirements for each package carefully if you encounter issues!
