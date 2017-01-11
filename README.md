@@ -50,9 +50,9 @@ Weekly leaders and required readings are given in parentheticals following each 
   - *1/19:* Motivation and course overview (Robert Shaffer; [Borgatti (2009)](https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Borgatti_2009.pdf))
   - *1/26:* Terminology, data formats, and visualization. (Zac McGee; [Wasserman and Faust, Chapter 1](https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Wasserman_Faust_Part1.pdf))
   - *2/2:* Types of networks.
+  - *2/9:* Visualization.
 * Node and network properties
-  - *2/9:* Node centrality and popularity.
-  - *2/16:* Node power.
+  - *2/16:* Node centrality and popularity.
   - *2/23:* Network balance and transitivity.
   - *3/2:* Community detection and local structures (i.e. triad analysis)
 * Effects of networks
