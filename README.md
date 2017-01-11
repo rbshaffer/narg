@@ -45,23 +45,24 @@ For participants wishing to do some outside reading on their own, one or more of
   
 # List of topics
 Required readings are given in parentheticals following each topic heading. See each week's folder in the [resources](https://github.com/rbshaffer/narg/blog/master/resources) section for additional resources. Topic dates are approximate, and may be shifted depending on demand and scheduling.
+
 * Introduction
-  1. 1/19: Motivation and course overview ([Borgatti (2009)](https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Borgatti_2009.pdf))
-  2. 1/26: Terminology, data formats, and visualization. ([Wasserman and Faust, Chapter 1](https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Wasserman_Faust_Part1.pdf))
-  3. 2/2: Types of networks.
+  - *1/19:* Motivation and course overview ([Borgatti (2009)](https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Borgatti_2009.pdf))
+  - *1/26:* Terminology, data formats, and visualization. ([Wasserman and Faust, Chapter 1](https://github.com/rbshaffer/narg/blob/master/resources/Week_1/Wasserman_Faust_Part1.pdf))
+  - *2/2:* Types of networks.
 * Node and network properties
-  4. 2/9: Node centrality and popularity.
-  5. 2/16 Node power.
-  6. 2/23: Network balance and transitivity.
-  7. 3/2: Community detection and local structures (i.e. triad analysis)
+  - *2/9:* Node centrality and popularity.
+  - *2/16:* Node power.
+  - *2/23:* Network balance and transitivity.
+  - *3/2:* Community detection and local structures (i.e. triad analysis)
 * Effects of networks
-  8. 3/9: Diffusion.
-  9. 3/23: Mutual support.
+  - *3/9:* Diffusion.
+  - *3/23:* Mutual support.
 * Inference
-  10. 3/30: Exponential random graph models.
-  11. 4/13: Latent space network models.
-  12. 4/20: Quadratic assignment procedure.
-  13. 4/27Logistic regression (p*).
+  - *3/30:* Exponential random graph models.
+  - *4/13:* Latent space network models.
+  - *4/20:* Quadratic assignment procedure.
+  - *4/27:* Logistic regression (p*).
   
 # Software
 As a general rule, many software packages will work more easily with Unix-like operating systems (OSX; Linux) than with Windows. Check the documentation and requirements for each package carefully if you encounter issues!
