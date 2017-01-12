@@ -48,8 +48,8 @@ For participants wishing to do some outside reading on their own, one or more of
 Weekly leaders and required readings are given in parentheticals following each topic heading. See each week's folder in the [resources](https://github.com/rbshaffer/narg/blog/master/resources) section for additional resources. Topic dates are approximate, and may be shifted depending on demand and scheduling.
 
 * Introduction
-  - *1/19:* Motivation and course overview (Robert Shaffer; [McClurg (2014)](https://github.com/rbshaffer/narg/blob/master/resources/01/McClurg_2014.pdf))
-  - *1/26:* Terminology and data formats. (Zac McGee; [Wasserman and Faust, Chapter 1](https://github.com/rbshaffer/narg/blob/master/resources/02/Wasserman_Faust_Part1.pdf))
+  - *1/19:* Motivation and course overview (Robert Shaffer; [McClurg (2014)](https://github.com/rbshaffer/narg/blob/master/resources/01/McClurg_2014.pdf)).
+  - *1/26:* Terminology and data formats (Zac McGee; [Wasserman and Faust, Chapter 1](https://github.com/rbshaffer/narg/blob/master/resources/02/Wasserman_Faust_Part1.pdf)).
   - *2/2:* Types of networks.
   - *2/9:* Visualization.
 * Node and network properties
