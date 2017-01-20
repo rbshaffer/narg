@@ -45,7 +45,7 @@ For participants wishing to do some outside reading on their own, one or more of
 * [Hanneman, Robert A. and Mark Riddle. 2005. *Introduction to Social Network Methods*. Riverside, CA: University of California, Riverside.](http://www.faculty.ucr.edu/~hanneman/nettext/)
   
 # List of topics
-Weekly leaders and required readings are given in parentheticals following each topic heading. See each week's folder in the [resources](https://github.com/rbshaffer/narg/blog/master/resources) section for additional resources. Topic dates are approximate, and may be shifted depending on demand and scheduling.
+Weekly leaders and required readings are given in parentheticals following each topic heading. See each week's folder in the [resources](https://github.com/rbshaffer/narg/tree/master/resources) section for additional resources. Topic dates are approximate, and may be shifted depending on demand and scheduling.
 
 * Introduction
   - *1/19:* Motivation and course overview (Robert Shaffer; [McClurg (2014)](https://github.com/rbshaffer/narg/blob/master/resources/01/McClurg_2014.pdf), [Borgatti (2009)](https://github.com/rbshaffer/narg/blob/master/resources/01/Borgatti_2009.pdf)).
