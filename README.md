@@ -45,23 +45,22 @@ For participants wishing to do some outside reading on their own, one or more of
 * [Hanneman, Robert A. and Mark Riddle. 2005. *Introduction to Social Network Methods*. Riverside, CA: University of California, Riverside.](http://www.faculty.ucr.edu/~hanneman/nettext/)
   
 # List of topics
-Weekly leaders and required readings are given in parentheticals following each topic heading. See each week's folder in the [resources](https://github.com/rbshaffer/narg/blog/master/resources) section for additional resources. Topic dates are approximate, and may be shifted depending on demand and scheduling.
+Weekly leaders and required readings are given in parentheticals following each topic heading. See each week's folder in the [resources](https://github.com/rbshaffer/narg/tree/master/resources) section for additional resources. Topic dates are approximate, and may be shifted depending on demand and scheduling.
 
 * Introduction
   - *1/19:* Motivation and course overview (Robert Shaffer; [McClurg (2014)](https://github.com/rbshaffer/narg/blob/master/resources/01/McClurg_2014.pdf), [Borgatti (2009)](https://github.com/rbshaffer/narg/blob/master/resources/01/Borgatti_2009.pdf)).
-  - *1/26:* Terminology and data formats (Zac McGee; [Wasserman and Faust, Chapter 1](https://github.com/rbshaffer/narg/blob/master/resources/02/Wasserman_Faust_Part1.pdf)).
-  - *2/2:* Types of networks.
-  - *2/9:* Visualization.
+  - *1/26:* Terminology and data formats (Zac McGee; [Wasserman and Faust, Chapter 1 - especially p. 17-22; 28-31; and 35-44](https://github.com/rbshaffer/narg/blob/master/resources/02/Wasserman_Faust_Part1.pdf), [Porter et al. 2005](https://github.com/rbshaffer/narg/blob/master/resources/03/Porter_2005.pdf)).
+  - *2/9:* Conceptualization and measurement.
+  - *2/16:* Visualization.
 * Node and network properties
-  - *2/16:* Node centrality and popularity.
-  - *2/23:* Network balance and transitivity.
-  - *3/2:* Community detection and local structures (i.e. triad analysis)
+  - *2/23:* Node centrality and popularity.
+  - *3/2:* Network balance and transitivity.
+  - *3/9:* Community detection and local structures (i.e. triad analysis)
 * Effects of networks
-  - *3/9:* Diffusion.
-  - *3/23:* Mutual support.
+  - *3/23:* Diffusion.
+  - *3/30:* Mutual support.
 * Inference
-  - *3/30:* Exponential random graph models.
-  - *4/13:* Latent space network models.
+  - *4/13:* Exponential random graph models.
   - *4/20:* Quadratic assignment procedure.
   - *4/27:* Logistic regression (p*).
   
@@ -72,6 +71,7 @@ As a general rule, many software packages will work more easily with Unix-like o
  * [igraph](http://igraph.org/r/)
  * [spnet](http://emmanuel.rousseaux.me/r-package-spnet)
  * [ggnet2](https://briatte.github.io/ggnet/)
+ * [sna](https://cran.r-project.org/web/packages/sna/sna.pdf)
 * Python
  * [NetworkX](https://networkx.readthedocs.io/en/stable)
  * [graph-tool](https://graph-tool.skewed.de/)
