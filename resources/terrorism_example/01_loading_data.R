@@ -7,7 +7,7 @@ library(openxlsx)
 
 # modify your path as appropriate
 # note that this a slow/inefficient function - CSV or similar format would be better
-data <- read.xlsx("/path/to/globalterrorismdb_0616dist.xlsx")
+data <- read.xlsx("/home/rbshaffer/Downloads/globalterrorismdb_0616dist.xlsx")
 
 # creating a small sample visualization
 sample_edgelist <- as.matrix(head(data[,c('gname', 'country_txt')]), ncol=2)
@@ -28,7 +28,7 @@ edgelist[to_shorten, 1] <- str_match(edgelist[to_shorten, 1], '\\(([A-Z]+)\\)')[
 
 # collapse to a weighted graph of unique entries (could imagine separating by year, decade, etc)
 weighted_edges <- unique(edgelist)
-igraph_obj <- graph_from_edgelist(weighted_edges, directed=F)
+igraph_obj <- graph_from_edgelist(weighted_edges, directed=T)
 
 # add a few attributes
 V(igraph_obj)$type <- V(igraph_obj)$name %in% edgelist[,1]
@@ -45,5 +45,5 @@ plot.igraph(igraph_obj,
             vertex.color=ifelse(V(igraph_obj)$type == 1, 'lightgreen', 'lightblue'),
             edge.width=E(igraph_obj)$weight,
             layout=layout_with_fr(igraph_obj),
-            margin=-.25)
+            margin=-.3)
 
