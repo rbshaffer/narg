@@ -49,7 +49,7 @@ Weekly leaders and required readings are given in parentheticals following each 
 
 * Introduction
   - *1/19:* Motivation and course overview (Robert Shaffer; [McClurg (2014)](https://github.com/rbshaffer/narg/blob/master/resources/01/McClurg_2014.pdf), [Borgatti (2009)](https://github.com/rbshaffer/narg/blob/master/resources/01/Borgatti_2009.pdf)).
-  - *1/26:* Terminology and data formats (Zac McGee; [Wasserman and Faust, Chapter 1](https://github.com/rbshaffer/narg/blob/master/resources/02/Wasserman_Faust_Part1.pdf), [Porter et al. 2005](https://github.com/rbshaffer/narg/blob/master/resources/03/Porter_2005.pdf)).
+  - *1/26:* Terminology and data formats (Zac McGee; [Wasserman and Faust, Chapter 1 - especially p. 17-22; 28-31; and 35-44](https://github.com/rbshaffer/narg/blob/master/resources/02/Wasserman_Faust_Part1.pdf), [Porter et al. 2005](https://github.com/rbshaffer/narg/blob/master/resources/03/Porter_2005.pdf)).
   - *2/9:* Conceptualization and measurement.
   - *2/16:* Visualization.
 * Node and network properties
