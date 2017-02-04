@@ -15,20 +15,22 @@ sample_graph_obj <- graph_from_edgelist(sample_edgelist)
 plot.igraph(sample_graph_obj)
 
 # visualize attacks from top N groups
-n <- 10
+n <- 25
 
 ordered <- unique(data$gname)
 prevalence <- sapply(ordered, function(x){sum(data$gname == x)})
 ordered <- ordered[order(prevalence, decreasing = T)]
 edgelist <- as.matrix(data[data$gname %in% ordered[2:(n+1)],c('gname', 'country_txt')])
 
+edgelist <- edgelist[!edgelist[,1] %in% c('Unaffiliated Individual(s)'),]
+
 # shorten some names
 to_shorten <- grep('\\(', edgelist[,1])
-edgelist[to_shorten, 1] <- str_match(edgelist[to_shorten, 1], '\\(([A-Z]+)\\)')[,2]
+edgelist[to_shorten, 1] <- str_match(edgelist[to_shorten, 1], '\\(([-A-Za-z0-9 ]+)\\)')[,2]
 
 # collapse to a weighted graph of unique entries (could imagine separating by year, decade, etc)
 weighted_edges <- unique(edgelist)
-igraph_obj <- graph_from_edgelist(weighted_edges, directed=T)
+igraph_obj <- graph_from_edgelist(weighted_edges, directed=F)
 
 # add a few attributes
 V(igraph_obj)$type <- V(igraph_obj)$name %in% edgelist[,1]
@@ -46,4 +48,3 @@ plot.igraph(igraph_obj,
             edge.width=E(igraph_obj)$weight,
             layout=layout_with_fr(igraph_obj),
             margin=-.3)
-
