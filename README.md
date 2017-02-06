@@ -50,7 +50,7 @@ Weekly leaders and required readings are given in parentheticals following each 
 * Introduction
   - *1/19:* Motivation and course overview (Robert Shaffer; [McClurg (2014)](https://github.com/rbshaffer/narg/blob/master/resources/01/McClurg_2014.pdf), [Borgatti (2009)](https://github.com/rbshaffer/narg/blob/master/resources/01/Borgatti_2009.pdf)).
   - *1/26:* Terminology and data formats (Zac McGee; [Wasserman and Faust, Chapter 1 - especially p. 17-22; 28-31; and 35-44](https://github.com/rbshaffer/narg/blob/master/resources/02/Wasserman_Faust_Part1.pdf), [Porter et al. 2005](https://github.com/rbshaffer/narg/blob/master/resources/03/Porter_2005.pdf)).
-  - *2/9:* Conceptualization and measurement (E.J. Fagan).
+  - *2/9:* Conceptualization and measurement (E.J. Fagan; [Koger, Masket and Noel 2010](https://github.com/rbshaffer/narg/blob/master/resources/04/Koger%2C%20Masket%2C%20Noel_2010_Cooperative%20Party%20Factions%20in%20American%20Politics.pdf); [Hawe et al. 2004](https://github.com/rbshaffer/narg/blob/master/resources/04/Hawe%2C%20Webster%2C%20Shiell_2004_A%20glossary%20of%20terms%20for%20navigating%20the%20field%20of%20social%20network%20analysis.pdf)).
   - *2/16:* Visualization.
 * Node and network properties
   - *2/23:* Node centrality and popularity.
