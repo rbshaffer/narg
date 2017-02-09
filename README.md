@@ -55,7 +55,7 @@ Weekly leaders and required readings are given in parentheticals following each 
 * Node and network properties
   - *2/23:* Node centrality and popularity.
   - *3/2:* Network balance and transitivity.
-  - *3/9:* Community detection and local structures (i.e. triad analysis)
+  - *3/9:* Community detection and local structures (i.e. triad analysis) (Ross Buchanan).
 * Effects of networks
   - *3/23:* Diffusion.
   - *3/30:* Mutual support.
