@@ -53,7 +53,7 @@ Weekly leaders and required readings are given in parentheticals following each 
   - *2/9:* Conceptualization and measurement (E.J. Fagan; [Koger, Masket and Noel 2010](https://github.com/rbshaffer/narg/blob/master/resources/04/Koger%2C%20Masket%2C%20Noel_2010_Cooperative%20Party%20Factions%20in%20American%20Politics.pdf); [Hawe et al. 2004](https://github.com/rbshaffer/narg/blob/master/resources/04/Hawe%2C%20Webster%2C%20Shiell_2004_A%20glossary%20of%20terms%20for%20navigating%20the%20field%20of%20social%20network%20analysis.pdf)).
   - *2/16:* Visualization (Siyun Jiang; [Ognyanova 2015](https://github.com/rbshaffer/narg/blob/master/resources/software_guides/Ognyanova_2015.pdf); [Battista 1994](https://github.com/rbshaffer/narg/blob/master/resources/04/Battista_1994.pdf); [Hanneman 2005](http://faculty.ucr.edu/~hanneman/nettext/C4_netdraw.html))
 * Node and network properties
-  - *2/23:* Node centrality and popularity (Mike Denly).
+  - *2/23:* Node centrality and popularity (Mike Denly; [Fowler et al. 2007](https://github.com/rbshaffer/narg/blob/master/resources/05/Fowler_2007.pdf)).
   - *3/2:* Network balance and transitivity.
   - *3/9:* Community detection and local structures (i.e. triad analysis) (Ross Buchanan).
 * Effects of networks
