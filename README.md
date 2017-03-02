@@ -54,7 +54,7 @@ Weekly leaders and required readings are given in parentheticals following each 
   - *2/16:* Visualization (Siyun Jiang; [Ognyanova 2015](https://github.com/rbshaffer/narg/blob/master/resources/software_guides/Ognyanova_2015.pdf); [Battista 1994](https://github.com/rbshaffer/narg/blob/master/resources/04/Battista_1994.pdf); [Hanneman 2005](http://faculty.ucr.edu/~hanneman/nettext/C4_netdraw.html))
 * Node and network properties
   - *2/23:* Node centrality and popularity (Mike Denly; [Fowler et al. 2007](https://github.com/rbshaffer/narg/blob/master/resources/05/Fowler_2007.pdf)).
-  - *3/2:* Network balance and transitivity (Maraam Dwidar).
+  - *3/2:* Network balance and transitivity (Maraam Dwidar; [Cartwright 1956](https://github.com/rbshaffer/narg/blob/master/resources/06/Cartwright_1956.pdf), [Faust 2002](https://github.com/rbshaffer/narg/blob/master/resources/06/Faust_2002.pdf)).
   - *3/9:* Community detection and local structures (i.e. triad analysis) (Ross Buchanan).
 * Effects of networks
   - *3/23:* Diffusion.
