@@ -55,7 +55,7 @@ Weekly leaders and required readings are given in parentheticals following each 
 * Node and network properties
   - *2/23:* Node centrality and popularity (Mike Denly; [Fowler et al. 2007](https://github.com/rbshaffer/narg/blob/master/resources/05/Fowler_2007.pdf)).
   - *3/2:* Network balance and transitivity (Maraam Dwidar; [Cartwright 1956](https://github.com/rbshaffer/narg/blob/master/resources/06/Cartwright_1956.pdf), [Faust 2002](https://github.com/rbshaffer/narg/blob/master/resources/06/Faust_2002.pdf)).
-  - *3/9:* Community detection and local structures (i.e. triad analysis) (Ross Buchanan).
+  - *3/9:* Community detection and local structures (i.e. triad analysis) (Ross Buchanan; [Newman 2006](https://github.com/rbshaffer/narg/blob/master/resources/07/Newman_2006.pdf), skim [Opsahl 2009](https://github.com/rbshaffer/narg/blob/master/resources/07/Opsahl_2009.pdf)).
 * Effects of networks
   - *3/23:* Diffusion.
   - *3/30:* Mutual support.
