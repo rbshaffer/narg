@@ -54,13 +54,13 @@ Weekly leaders and required readings are given in parentheticals following each 
   - *2/16:* Visualization (Siyun Jiang; [Ognyanova 2015](https://github.com/rbshaffer/narg/blob/master/resources/software_guides/Ognyanova_2015.pdf); [Battista 1994](https://github.com/rbshaffer/narg/blob/master/resources/04/Battista_1994.pdf); [Hanneman 2005](http://faculty.ucr.edu/~hanneman/nettext/C4_netdraw.html))
 * Node and network properties
   - *2/23:* Node centrality and popularity (Mike Denly; [Fowler et al. 2007](https://github.com/rbshaffer/narg/blob/master/resources/05/Fowler_2007.pdf)).
-  - *3/2:* Network balance and transitivity (Maraam Dwidar; [Cartwright 1956](https://github.com/rbshaffer/narg/blob/master/resources/06/Cartwright_1956.pdf), [Faust 2002](https://github.com/rbshaffer/narg/blob/master/resources/06/Faust_2002.pdf)).
+  - *3/2:* Network balance and transitivity (Maraam Dwidar; [Cartwright 1956](https://github.com/rbshaffer/narg/blob/master/resources/06/Cartwright_1956.pdf); [Faust 2002](https://github.com/rbshaffer/narg/blob/master/resources/06/Faust_2002.pdf)).
   - *3/9:* Community detection and local structures (i.e. triad analysis) (Ross Buchanan; [Newman 2006](https://github.com/rbshaffer/narg/blob/master/resources/07/Newman_2006.pdf), skim [Opsahl 2009](https://github.com/rbshaffer/narg/blob/master/resources/07/Opsahl_2009.pdf)).
 * Effects of networks
-  - *3/23:* Diffusion (Ross Buchanan;  [Morris 1993](https://github.com/rbshaffer/narg/blob/master/resources/08/Morris_1993.pdf) and [Rhue 2014](https://github.com/rbshaffer/narg/blob/master/resources/08/Rhue_2014.pdf)).
+  - *3/23:* Diffusion (Ross Buchanan;  [Morris 1993](https://github.com/rbshaffer/narg/blob/master/resources/08/Morris_1993.pdf); [Rhue 2014](https://github.com/rbshaffer/narg/blob/master/resources/08/Rhue_2014.pdf)).
   - *3/30:* Mutual support (Michael Gibbs; [Wellman 1990](https://github.com/rbshaffer/narg/blob/master/resources/09/Wellman_1990.pdf)).
 * Inference (General introduction: [Cranmer et al. 2016](https://github.com/rbshaffer/narg/blob/master/resources/10/Cranmer_2016.pdf))
-  - *4/13:* Exponential random graph models (Zac McGee; [Robins et al. 2007](https://github.com/rbshaffer/narg/blob/master/resources/10/Robins_2007.pdf), and [Box-Steffensmeier and Christenson 2014](https://github.com/rbshaffer/narg/blob/master/resources/10/Box-Steffensmeier_2014.pdf)).
+  - *4/13:* Exponential random graph models (Zac McGee; [Robins et al. 2007](https://github.com/rbshaffer/narg/blob/master/resources/10/Robins_2007.pdf); [Box-Steffensmeier and Christenson 2014](https://github.com/rbshaffer/narg/blob/master/resources/10/Box-Steffensmeier_2014.pdf)).
   - *4/20:* Quadratic assignment procedure.
   - *4/27:* Logistic regression (p*).
   
