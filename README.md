@@ -58,7 +58,7 @@ Weekly leaders and required readings are given in parentheticals following each 
   - *3/9:* Community detection and local structures (i.e. triad analysis) (Ross Buchanan; [Newman 2006](https://github.com/rbshaffer/narg/blob/master/resources/07/Newman_2006.pdf), skim [Opsahl 2009](https://github.com/rbshaffer/narg/blob/master/resources/07/Opsahl_2009.pdf)).
 * Effects of networks
   - *3/23:* Diffusion (Ross Buchanan;  [Morris 1993](https://github.com/rbshaffer/narg/blob/master/resources/08/Morris_1993.pdf) and [Rhue 2014](https://github.com/rbshaffer/narg/blob/master/resources/08/Rhue_2014.pdf)).
-  - *3/30:* Mutual support (Michael Gibbs; [Wellman 1990] (https://github.com/rbshaffer/narg/blob/master/resources/09/Wellman_1990.pdf)).
+  - *3/30:* Mutual support (Michael Gibbs; [Wellman 1990](https://github.com/rbshaffer/narg/blob/master/resources/09/Wellman_1990.pdf)).
 * Inference (General introduction: [Cranmer et al. 2016](https://github.com/rbshaffer/narg/blob/master/resources/10/Cranmer_2016.pdf))
   - *4/13:* Exponential random graph models (Zac McGee; [Robins et al. 2007](https://github.com/rbshaffer/narg/blob/master/resources/10/Robins_2007.pdf), and [Box-Steffensmeier and Christenson 2014](https://github.com/rbshaffer/narg/blob/master/resources/10/Box-Steffensmeier_2014.pdf)).
   - *4/20:* Quadratic assignment procedure.
