@@ -48,7 +48,7 @@ For participants wishing to do some outside reading on their own, one or more of
 Weekly leaders and required readings are given in parentheticals following each topic heading. See each week's folder in the [resources](https://github.com/rbshaffer/narg/tree/master/resources) section for additional resources. Topic dates are approximate, and may be shifted depending on demand and scheduling.
 
 * Introduction
-  - *1/19:* Motivation and course overview (Robert Shaffer; [McClurg (2014)](https://github.com/rbshaffer/narg/blob/master/resources/01/McClurg_2014.pdf), [Borgatti (2009)](https://github.com/rbshaffer/narg/blob/master/resources/01/Borgatti_2009.pdf)).
+  - *1/19:* Motivation and course overview (Robert Shaffer; [McClurg 2014](https://github.com/rbshaffer/narg/blob/master/resources/01/McClurg_2014.pdf), [Borgatti 2009](https://github.com/rbshaffer/narg/blob/master/resources/01/Borgatti_2009.pdf)).
   - *1/26:* Terminology and data formats (Zac McGee; [Wasserman and Faust, Chapter 1 - especially p. 17-22; 28-31; and 35-44](https://github.com/rbshaffer/narg/blob/master/resources/02/Wasserman_Faust_Part1.pdf), [Porter et al. 2005](https://github.com/rbshaffer/narg/blob/master/resources/03/Porter_2005.pdf)).
   - *2/9:* Conceptualization and measurement (E.J. Fagan; [Koger, Masket and Noel 2010](https://github.com/rbshaffer/narg/blob/master/resources/04/Koger%2C%20Masket%2C%20Noel_2010_Cooperative%20Party%20Factions%20in%20American%20Politics.pdf); [Hawe et al. 2004](https://github.com/rbshaffer/narg/blob/master/resources/04/Hawe%2C%20Webster%2C%20Shiell_2004_A%20glossary%20of%20terms%20for%20navigating%20the%20field%20of%20social%20network%20analysis.pdf)).
   - *2/16:* Visualization (Siyun Jiang; [Ognyanova 2015](https://github.com/rbshaffer/narg/blob/master/resources/software_guides/Ognyanova_2015.pdf); [Battista 1994](https://github.com/rbshaffer/narg/blob/master/resources/04/Battista_1994.pdf); [Hanneman 2005](http://faculty.ucr.edu/~hanneman/nettext/C4_netdraw.html))
@@ -58,9 +58,9 @@ Weekly leaders and required readings are given in parentheticals following each 
   - *3/9:* Community detection and local structures (i.e. triad analysis) (Ross Buchanan; [Newman 2006](https://github.com/rbshaffer/narg/blob/master/resources/07/Newman_2006.pdf), skim [Opsahl 2009](https://github.com/rbshaffer/narg/blob/master/resources/07/Opsahl_2009.pdf)).
 * Effects of networks
   - *3/23:* Diffusion (Ross Buchanan;  [Morris 1993](https://github.com/rbshaffer/narg/blob/master/resources/08/Morris_1993.pdf) and [Rhue 2014](https://github.com/rbshaffer/narg/blob/master/resources/08/Rhue_2014.pdf)).
-  - *3/30:* Mutual support (Michael Gibbs).
-* Inference
-  - *4/13:* Exponential random graph models (Zac McGee).
+  - *3/30:* Mutual support (Michael Gibbs; [Wellman 1990] (https://github.com/rbshaffer/narg/blob/master/resources/09/Wellman_1990.pdf)).
+* Inference (General introduction: [Cranmer et al. 2016](https://github.com/rbshaffer/narg/blob/master/resources/10/Cranmer_2016.pdf))
+  - *4/13:* Exponential random graph models (Zac McGee; [Robins et al. 2007](https://github.com/rbshaffer/narg/blob/master/resources/10/Robins_2007.pdf), and [Box-Steffensmeier and Christenson 2014](https://github.com/rbshaffer/narg/blob/master/resources/10/Box-Steffensmeier_2014.pdf)).
   - *4/20:* Quadratic assignment procedure.
   - *4/27:* Logistic regression (p*).
   
